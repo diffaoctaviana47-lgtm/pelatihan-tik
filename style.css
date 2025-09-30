@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFE0;
+  background-color: #FFFFE0;
   font-family: Arial, sans-serif;
 color:
 }
@@ -9,5 +9,5 @@ color:
     padding: 20px
     backround-color:white;
     border-radius:15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
 }
